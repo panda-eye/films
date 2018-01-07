@@ -1,0 +1,24 @@
+C:\Documents and Settings\Buddy\Мои документы\Visual Studio 2008\Projects\Project1\Фильмы\Фильмы\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Buddy\Мои документы\Visual Studio 2008\Projects\Project1\Фильмы\Фильмы\obj\Debug\Фильмы.Form1.resources
+C:\Documents and Settings\Buddy\Мои документы\Visual Studio 2008\Projects\Project1\Фильмы\Фильмы\obj\Debug\Фильмы.Properties.Resources.resources
+C:\Documents and Settings\Buddy\Мои документы\Visual Studio 2008\Projects\Project1\Фильмы\Фильмы\obj\Debug\Фильмы.StartProgram.resources
+C:\Documents and Settings\Buddy\Мои документы\Visual Studio 2008\Projects\Project1\Фильмы\Фильмы\obj\Debug\Фильмы.csproj.GenerateResource.Cache
+C:\Documents and Settings\Buddy\Мои документы\Visual Studio 2008\Projects\Project1\Фильмы\Фильмы\bin\Debug\Local.sdf
+C:\Documents and Settings\Buddy\Мои документы\Visual Studio 2008\Projects\Project1\Фильмы\Фильмы\bin\Debug\Фильмы.exe.config
+C:\Documents and Settings\Buddy\Мои документы\Visual Studio 2008\Projects\Project1\Фильмы\Фильмы\bin\Debug\Фильмы.exe
+C:\Documents and Settings\Buddy\Мои документы\Visual Studio 2008\Projects\Project1\Фильмы\Фильмы\bin\Debug\Фильмы.pdb
+C:\Documents and Settings\Buddy\Мои документы\Visual Studio 2008\Projects\Project1\Фильмы\Фильмы\obj\Debug\Фильмы.exe
+C:\Documents and Settings\Buddy\Мои документы\Visual Studio 2008\Projects\Project1\Фильмы\Фильмы\obj\Debug\Фильмы.pdb
+C:\Documents and Settings\Buddy\Мои документы\Visual Studio 2008\Projects\Project1\Фильмы\Фильмы\obj\Debug\Фильмы.Searching.resources
+C:\Users\TOSHIBA\Documents\Visual Studio 2015\Projects\Фильмы\Фильмы\bin\Debug\Фильмы.exe.config
+C:\Users\TOSHIBA\Documents\Visual Studio 2015\Projects\Фильмы\Фильмы\obj\Debug\Фильмы.exe
+C:\Users\TOSHIBA\Documents\Visual Studio 2015\Projects\Фильмы\Фильмы\obj\Debug\Фильмы.pdb
+C:\Users\TOSHIBA\Documents\Visual Studio 2015\Projects\Фильмы\Фильмы\bin\Debug\Фильмы.exe
+C:\Users\TOSHIBA\Documents\Visual Studio 2015\Projects\Фильмы\Фильмы\bin\Debug\Фильмы.pdb
+C:\Users\TOSHIBA\Documents\Visual Studio 2015\Projects\Фильмы\Фильмы\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\TOSHIBA\Documents\Visual Studio 2015\Projects\Фильмы\Фильмы\obj\Debug\Фильмы.Form1.resources
+C:\Users\TOSHIBA\Documents\Visual Studio 2015\Projects\Фильмы\Фильмы\obj\Debug\Фильмы.Properties.Resources.resources
+C:\Users\TOSHIBA\Documents\Visual Studio 2015\Projects\Фильмы\Фильмы\obj\Debug\Фильмы.Searching.resources
+C:\Users\TOSHIBA\Documents\Visual Studio 2015\Projects\Фильмы\Фильмы\obj\Debug\Фильмы.StartProgram.resources
+C:\Users\TOSHIBA\Documents\Visual Studio 2015\Projects\Фильмы\Фильмы\obj\Debug\Фильмы.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Documents\Visual Studio 2015\Projects\Фильмы\Фильмы\obj\Debug\Фильмы.csprojResolveAssemblyReference.cache
